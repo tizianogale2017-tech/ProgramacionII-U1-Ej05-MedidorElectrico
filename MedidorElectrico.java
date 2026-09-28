@@ -1,3 +1,5 @@
+package Ejercicio5_medidorElectrico;
+
 public class MedidorElectrico {
     private String numeroMedidor;
     private double lecturaAnterior;
