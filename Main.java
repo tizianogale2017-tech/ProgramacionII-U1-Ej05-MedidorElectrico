@@ -1,3 +1,5 @@
+package Ejercicio5_medidorElectrico;
+
 public class Main {
     public static void main(String[] args) {
         MedidorElectrico medidor = new MedidorElectrico("MED-001", 1200.0, 1350.5);
